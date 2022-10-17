@@ -2,30 +2,30 @@ let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
 let sh = '5'
-let sn = '15'
-let ss = '30'
-let sp = '35'
-let sv = '65'
+let sn = '10'
+let ss = '15'
+let sp = '20'
+let sv = '30'
 //premium
 let ph = '5'
-let pn = '20'
-let pp = '40'
-let pv = '50'
-let ppm = '70'
+let pn = '10'
+let pp = '15'
+let pv = '20'
+let ppm = '25'
 let info = `
 ╭━━━━「 *SEWA* 」
 ┊⫹⫺ *Hemat:* _${sh}k/grup (1 minggu)_
-┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_
-┊⫹⫺ *Standar:* _${ss}k/grup (2 bulan)_
-┊⫹⫺ *Pro:* _${sp}k/grup (4 bulan)_                                                      
-┊⫹⫺ *Vip:* = _${sv}k/grup (12 bulan)_
+┊⫹⫺ *Normal:* _${sn}k/grup (2 minggu)_
+┊⫹⫺ *Standar:* _${ss}k/grup (3 minggu)_
+┊⫹⫺ *Pro:* _${sp}k/grup (1 bulan)_                                                      
+┊⫹⫺ *Vip:* = _${sv}k/grup (permanent)_
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
 ┊⫹⫺ *Hemat:* _${ph}k (1 minggu)_
-┊⫹⫺ *Normal:* _${pn}k (1 bulan)_
-┊⫹⫺ *Pro:* _${pp}k (4 bulan)_
-┊⫹⫺ *Vip:* _${pv}k (8 bulan)_                                               
+┊⫹⫺ *Normal:* _${pn}k (2 minggu)_
+┊⫹⫺ *Pro:* _${pp}k (3 minggu)_
+┊⫹⫺ *Vip:* _${pv}k (4 minggu)_                                               
 ┊⫹⫺ *Permanent:* = _${ppm}k (Unlimited)_
 ╰═┅═━––––––๑
 
@@ -41,7 +41,7 @@ let info = `
 💬: Mau tawar menawar? boleh, silahkan chat owner aja
 
 🗣️: Scam ga nih kak?
-💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
+💬: Enggalah, Owner 100% Tepati janji
 
 ▌│█║▌║▌║║▌║▌║█│▌
 `
