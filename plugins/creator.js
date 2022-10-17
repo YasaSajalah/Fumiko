@@ -22,13 +22,13 @@ let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').
 let teksbio = `${htki} *BIODATA* ${htka}
 ${htjava} *💌 Nama* : Deviana
 ${htjava} *✉️ Nama RL* : Deviana S.
-${htjava} *♂️ Gender* : Girl
+${htjava} *♀️ Gender* : Girl
 ${htjava} *🕋 Agama* : Private 
-${htjava} *⏰ Tanggal lahir* : Private 
+${htjava} *⏰ Tanggal lahir* : 2006
 ${htjava} *🎨 Umur* : Private
-${htjava} *🧮 Kelas* : SMK
+${htjava} *🧮 Kelas* : 2 SMK
 ${htjava} *🧩 Hobby* : -
-${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
+${htjava} *💬 Sifat* : Cuek
 ${htjava} *🗺️ Tinggal* : Indonesia, Pandeglang, Banten 
 ${htjava} *❤️ Waifu* : -
 
