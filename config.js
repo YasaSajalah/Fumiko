@@ -30,11 +30,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/farsya2006'
-global.sgh = 'https://github.com/YasaSajalah' //github
+global.sig = '-'
+global.sgh = '-' //github
 global.sgc = 'https://chat.whatsapp.com/D2X4bSIwsJq2OQLZV0uHXb' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/c/YasaChannel' // my youtube channel
+global.snh = '-' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '081218100935' //dana
@@ -46,7 +46,7 @@ global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/Cattussmp'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285387666296'
+global.nomorbot = '13083218984'
 global.nomorown = '6281218100935'
 global.namebot = 'FumikoBotz'
 global.nameown = 'Deviana'
@@ -189,7 +189,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'FumikoBotz'
+global.stickpack = 'New Sticker'
 global.stickauth = `By FumikoBotz`
 
 global.multiplier = 38 // The higher, The harder levelup
